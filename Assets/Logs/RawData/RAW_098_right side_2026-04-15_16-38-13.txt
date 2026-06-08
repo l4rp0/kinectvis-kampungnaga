@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: 098
+Location: right side
+Object: testobject
+Start: 4/15/2026 4:38:13 PM
+Duration: 0.8977
+-----------------------

@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: coko
+Location: right side
+Object: testobject
+Start: 4/15/2026 4:26:23 PM
+Duration: 6.5227
+-----------------------

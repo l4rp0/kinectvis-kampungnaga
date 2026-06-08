@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: aselole
+Location: left side
+Object: testobject
+Start: 4/15/2026 4:29:13 PM
+Duration: 2.8611
+-----------------------

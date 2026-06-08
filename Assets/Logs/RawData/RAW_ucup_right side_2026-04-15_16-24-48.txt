@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: ucup
+Location: right side
+Object: testobject
+Start: 4/15/2026 4:24:48 PM
+Duration: 9.0813
+-----------------------

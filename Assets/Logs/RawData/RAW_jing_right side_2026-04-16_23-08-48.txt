@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: jing
+Location: right side
+Object: testobject
+Start: 4/16/2026 11:08:48 PM
+Duration: 2.7418
+-----------------------

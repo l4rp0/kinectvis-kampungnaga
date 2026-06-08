@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: pajeet
+Location: right side
+Object: testobject
+Start: 4/15/2026 4:10:40 PM
+Duration: 6.8200
+-----------------------

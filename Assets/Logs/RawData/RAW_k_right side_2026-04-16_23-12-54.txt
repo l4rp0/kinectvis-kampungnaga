@@ -1,0 +1,7 @@
+--- RAW SESSION DATA ---
+User: k
+Location: right side
+Object: testobject
+Start: 4/16/2026 11:12:54 PM
+Duration: 10.8798
+-----------------------

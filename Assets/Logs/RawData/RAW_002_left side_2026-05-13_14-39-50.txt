@@ -1,0 +1,5 @@
+--- RAW SESSION DATA ---
+User: 002 | State: Standing
+Location: left side
+Duration: 0.4004
+-----------------------

@@ -1,0 +1,2 @@
+[Session Date: 2026-04-10_04-20-29]
+Location: right side | Duration: 0.72s | Object: testobject
